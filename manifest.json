@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Facebook mobile to desktop",
   "description":
-    "Converts the facebook's mobile site to desktop site in one click.",
-  "version": "1.0.2",
+    "Converts Facebook's mobile site to desktop site in one click.",
+  "version": "1.0.4",
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
